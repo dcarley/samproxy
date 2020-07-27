@@ -16,6 +16,7 @@ require (
 	github.com/facebookgo/subset v0.0.0-20150612182917-8dac2c3c4870 // indirect
 	github.com/garyburd/redigo v1.6.0
 	github.com/gogo/protobuf v0.0.0-20180509162441-30cf7ac33676 // indirect
+	github.com/google/go-cmp v0.5.1 // indirect
 	github.com/gorilla/mux v1.6.3-0.20190108142930-08e7f807d38d
 	github.com/hashicorp/golang-lru v0.5.0
 	github.com/honeycombio/dynsampler-go v0.2.1
@@ -39,6 +40,7 @@ require (
 	gopkg.in/alexcesaro/statsd.v2 v2.0.0
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/yaml.v2 v2.2.1 // indirect
+	gotest.tools v2.2.0+incompatible
 )
 
 go 1.13
